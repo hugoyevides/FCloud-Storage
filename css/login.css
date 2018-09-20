@@ -1,0 +1,28 @@
+#bar{
+	background-color: rgb(52,58,64);
+	height: 50px;
+}
+#text{
+	color: white;
+	text-align: center;
+	font-family: 'Varela Round', sans-serif;
+	font-size:26px;
+	padding-top:7px;
+}
+
+#box{
+    max-width: 350px;
+    padding: 10px 0px;
+    margin-top:80px;
+}
+
+.card-header{
+	background-color: rgb(52,58,64);
+	color: white;
+}
+.card{
+	border-color: rgb(52,58,64);
+}
+body{
+	background-color: rgb(242, 242, 242);
+}

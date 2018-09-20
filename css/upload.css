@@ -1,0 +1,17 @@
+.card-header{
+	background-color: rgb(52,58,64);
+	color: white;
+}
+.card{
+	border-color: rgb(52,58,64);
+}
+.box{
+    max-width: 500px;
+    padding: 10px 0px;
+}
+.boton{
+	margin: auto;
+}
+.text{
+	text-align:center;
+}
